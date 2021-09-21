@@ -18,7 +18,7 @@ def get_city():
     '''
     city = ''
     while city.lower() not in ['chicago', 'new york', 'washington']:
-        city = input('Please type city you are looking for. Available options are: chicago, new york city, washington.\n')
+        city = input('Please choose a city. Available options are: chicago, new york city, washington.\n')
         if city.lower() == 'chicago':
             return 'chicago.csv'
         elif city.lower() == 'new york':
