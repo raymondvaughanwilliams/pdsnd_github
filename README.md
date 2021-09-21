@@ -2,16 +2,20 @@
 
 ### Date created
 Include the date you created this project and README file.
-
+21st September 2021
 ### Project Title
-Replace the Project Title
+Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Gives stattistics based on data from bikeshare database
 
 ### Files used
-Include the files used
+Include the files used 
+bikeshare.py
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Raymond Vaughan Williams
